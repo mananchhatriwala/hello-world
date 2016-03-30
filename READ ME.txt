@@ -1,0 +1,17 @@
+EAM 5.0Gold Guide
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*DO's:
+- Whenever the Java path is changed, please update the same in following locations, 
+	System environment variables; 
+	EAM environment variables; 
+	Eclipse preferences
+  Different java path may cause inconsistencies with the tool.
+- Launch EAM using the shortcut only, the shortcut lauchnes the tool in clean mode which is recommended.
+- Place license at InstallationPath/MCClient/MasterCraft/license before launching EAM.
+
+*DONT's:
+- Do not rename the installation directory.
+- Do not launch EAM using the eclipse.exe. 
+
+
